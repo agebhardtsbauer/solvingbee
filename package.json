@@ -1,0 +1,23 @@
+{
+  "name": "solvingbee",
+  "version": "1.0.0",
+  "description": "solve spelling bee",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nyt",
+    "puzzles"
+  ],
+  "author": "alan gebhardtsbauer",
+  "license": "MIT",
+  "dependencies": {
+    "dictionary-en": "^4.0.0",
+    "eslint": "^9.9.0",
+    "nspell": "^2.1.5",
+    "prettier": "^3.3.3",
+    "typescript": "^5.5.4"
+  }
+}
